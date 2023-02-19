@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [project link](https://your-solution-url.com)
+- Solution URL: [project link](https://kaylezy.github.io/product-card/)
 
 ### Built with
 
